@@ -5,5 +5,4 @@ end
 
 def toadstool
   puts status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts phrase = "Take This."
 end
